@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://i0.wp.com/s1.uphinh.org/2021/03/26/logo13080efffcbbdbcb.png" alt="logo13080efffcbbdbcb.png" border="0" /></a></p>
 
 # THỰC TẬP CHUYÊN MÔN NĂM HỌC 2019-2020
 Họ tên: Lê Quang Vũ
